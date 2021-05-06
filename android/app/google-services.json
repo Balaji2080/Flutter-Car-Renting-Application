@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131883228881",
+    "project_id": "rencarzz",
+    "storage_bucket": "rencarzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131883228881:android:d33d9b7c2326dcd321aff0",
+        "android_client_info": {
+          "package_name": "com.example.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131883228881-t084tok5e43qcj9e511pfapmrb7vqduc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYs7iZYud_nHUNVp-PORg5U1wqjdshcEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131883228881-t084tok5e43qcj9e511pfapmrb7vqduc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
