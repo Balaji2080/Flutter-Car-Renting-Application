@@ -1,4 +1,4 @@
-# car
+# Car rental Application using flutter
 
 A new Flutter project.
 
